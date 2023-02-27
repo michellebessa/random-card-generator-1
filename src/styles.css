@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(2, 50, 2);
+}
+
+.cardBody {
+  background-color: white;
+  border-radius: 5px;
+  padding: 5px;
+  margin: auto;
+  margin-top: 50px;
+  width: 200px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.cardCenter {
+  text-align: center;
+}
+
+.cardBottom {
+ text-align: end;
+}
+
+.value {
+  color: black;
+  font-size: 80px;
+  text-align: center;
+
+}
+
+.suit {
+font-size: 80px;
+}
+
+.red {
+  color:red;
+}
